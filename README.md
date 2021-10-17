@@ -43,9 +43,9 @@ Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hish
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hisham-muhammed&show_icons=true&theme=nightowl" alt="Hisham-muhammed" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isuwabrooo_icons=true&theme=nightowl" alt="isuwabrooo" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hisham-muhammed&theme=nightowl" alt="Hisham-muhammed" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuwabrooo&theme=nightowl" alt="isuwabrooo" /></p>
 </details> </div>
 
 
@@ -71,7 +71,7 @@ Click Sophia logo to Join Support Group 2ðŸ‘‡
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ichu786780/Sophia-Mwol)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hisham-Muhammed/-SOPHIA.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/isuwabrooo/Boys/blob.git)
      </div>
 <br>
 <br >
@@ -117,9 +117,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![isuwabrooo](https://github.com/isuwabrooo.png?size=100)](https://github.com/isuwabrooo) |  [![isuwabrooo](https://github.com/isuwabrooo.png?size=100)](https://github.com/isuwabrooo) | [![isuwabrooo](https://github.com/isuwabrooo.png?size=100)](https://github.com/isuwabrooo) 
 ----|----|----
-[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+[isuwabrooo](https://github.com/isuwabrooo)  | [isuwabrooo](https://github.com/isuwabrooo) | [isuwabrooo](https://github.com/isuwabrooo)
 Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
   </div>
     
