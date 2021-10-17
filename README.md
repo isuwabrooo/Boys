@@ -69,7 +69,7 @@ Click Sophia logo to Join Support Group 2ðŸ‘‡
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ichu786780/Sophia-Mwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@isuwabrooo/KING)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/isuwabrooo/Boys/blob.git)
      </div>
