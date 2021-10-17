@@ -289,7 +289,7 @@ async function whatsAsena () {
     var nodb;
     if (StrSes_Db.length < 1) {
         nodb = true;
-        conn.loadAuthInfo(Session.deCrypt(config.SESSION)); 
+        conn.loadAuthInfo(Session.deCrypt(config.KING)); 
     } else {
         conn.loadAuthInfo(Session.deCrypt(StrSes_Db[0].dataValues.value));
     }
